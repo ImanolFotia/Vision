@@ -4,8 +4,9 @@
 # Features
 * O(1) static collision
 
-#Documentation
+# Documentation
 
 Soon
 
-#License EULA
+# License 
+EULA
