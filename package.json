@@ -3,6 +3,6 @@
     "version": "0.0.1",
     "dependencies": {
         "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git": "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git",
-        "glad": "1.0"
+        "Dav1dde/glad": "1.0"
     }
 }
