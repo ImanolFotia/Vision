@@ -1,0 +1,8 @@
+{
+    "name": "Vision",
+    "version": "0.0.1",
+    "dependencies": {
+        "VFS": "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git",
+        "glad": "1.0"
+    }
+}

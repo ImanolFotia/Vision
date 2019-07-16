@@ -17,6 +17,10 @@
                                    region and ending with the top scan line.
 */
 
+#ifdef __linux__
+#include <bits/stdint-uintn.h>
+#endif
+
 const char* SIGNATURE = "BM";
 
 const uint32_t BMP_HEADER_SIZE = 14;
