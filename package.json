@@ -1,8 +1,11 @@
 {
     "name": "Vision",
+    "repository": "https://github.com/ImanolFotia/Vision",
+    "description": "2D, 64bit, multiplatform game engine written in C++17",
     "version": "0.0.1",
     "dependencies": {
         "ImanolFotia/Epsilon-Virtual-File-System": "1.0",
         "Dav1dde/glad": "1.0"
-    }
+    },
+    "license": "MIT"
 }
