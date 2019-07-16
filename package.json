@@ -2,7 +2,7 @@
     "name": "Vision",
     "version": "0.0.1",
     "dependencies": {
-        "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git": "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git",
+        "ImanolFotia/Epsilon-Virtual-File-System": "https://github.com/ImanolFotia/Epsilon-Virtual-File-System.git",
         "Dav1dde/glad": "1.0"
     }
 }
